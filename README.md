@@ -1,2 +1,2 @@
 # Summer-Internship
-This is a report and the code of an internship in "L'observatori de l'Ebre" which makes a model of the inclination of the Earth's magnetic field in the quiet days.
+Here I attach the work report on top of the code that was done during an internship. The code has a README and it's explained in the work report.
