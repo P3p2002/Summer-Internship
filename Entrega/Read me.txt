@@ -1,0 +1,4 @@
+Per utilitzar aquest codi cal tenir clar algunes coses:
+Quan es llegeixin les dades que es tenen descarregades cal vigilar on es tenen guardades, i segurament faci falta canviar la ruta que s'utilitza fins ara. En el codi read_files s'hauria de canviar el file path en la linea 72. En l'altre codi, s'hauria de canviar el route de la linea 85 i 165.
+Si es vol utilitzar el codi per a tal de que llegeixi les dades directament d'internet s'ha de descomentar la funció read_file que té comentat "#Aquesta funcio llegeix les dades online" i comentar l'altre.
+A part d'això cal destacar que no s'han posat accents ni ç en els comentaris del codi degut a que alhora de crear el document final no els accepta i dona errors.
